@@ -1,2 +1,1 @@
-# PHP-Debug-Tools-Firefox
-PHP-Debug-Tools-Firefox
+# PHP Debugging Tools for Firefox
